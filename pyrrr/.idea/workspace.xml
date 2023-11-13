@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b5efc1c-0255-4da1-b011-21b82019746c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Aiogram_new_bot/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Aiogram_new_bot/.idea/Aiogram_new_bot.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Aiogram_new_bot/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Aiogram_new_bot/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Aiogram_new_bot/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Aiogram_new_bot/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Aiogram_new_bot/config.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Aiogram_new_bot/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Aiogram_new_bot/users_data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
