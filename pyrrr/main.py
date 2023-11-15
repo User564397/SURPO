@@ -15,9 +15,4 @@ if __name__ == '__main__':
     a, b = list(map(int, input().split()))
     calc(a, b)
 
-    print('Введите 2 числа через пробел: ')
-    a, b = list(map(int, input().split(' ')))
-    print(a + b)
-    print(a - b)
-    print(a * b)
-    print(a / b)
+    k = 34
