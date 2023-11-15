@@ -6,4 +6,4 @@ if __name__ == '__main__':
     print_hi('oleg')
     print('Изменение')
 
-    k = 33
+    k = 34
